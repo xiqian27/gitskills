@@ -1,0 +1,2 @@
+# gitskills
+just learn git 
